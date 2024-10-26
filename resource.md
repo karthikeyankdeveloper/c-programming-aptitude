@@ -6,7 +6,7 @@
 
 - [Master C Aptitude - PlayList 2 ](https://youtube.com/playlist?list=PLhP5RsB7fhE3h5MvxjC2MHPbCjcL_8-e5&si=Li9zbook8M1DgEHo)
 
-### Note
+### pseudo-code Resource
 
 - If you prepare for company specific Question refer ``PrepInsta`` and ```GFG```
 
