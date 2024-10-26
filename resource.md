@@ -9,3 +9,6 @@
 ### Note
 
 - If you prepare for company specific Question refer ``PrepInsta`` and ```GFG```
+
+- https://prepinsta.com/accenture/pseudo-code/
+- https://www.geeksforgeeks.org/quizzes/accenture-pseudocode-quiz-questions/
